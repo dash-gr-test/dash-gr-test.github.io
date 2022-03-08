@@ -1,3 +1,2 @@
-layout: page
-title: "The Foxes Homepage"
-permalink: /thefoxes/
+## The Foxes
+This is a test.
